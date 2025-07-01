@@ -14,6 +14,10 @@ My academic and research experience has developed my ability to analyze data, id
 
 Here are some of the key projects I've developed:
 
+### 📞 Clusturn: Predicting & Clustering Churn Customers
+* **Description**: This end-to-end data project was developed to proactively predict customer churn in the telecommunications sector. The system uses a classification model to identify high-risk customers and a clustering model to understand the root causes of their dissatisfaction. The insights generated enable personalized, cost-effective retention strategies, protecting revenue by preventing customer loss.
+* **Tech Stack**: Python, Pandas, Scikit-learn, Imblearn, K-modes, Matplotlib, Seaborn, Pickle, Streamlit.
+
 ### 🏥 Predictive Modeling for Hospital Length of Stay (LoS)
 * **Description**: I developed and deployed an end-to-end machine learning project to predict patient Length of Stay (LoS) and provide data-driven insights for improving hospital operational efficiency. After performing comprehensive EDA, feature engineering, and hyperparameter tuning, the final benchmark model achieved a test MAE of ~1.19 days. A key strategic recommendation was to prioritize clinical data enrichment for future model enhancements.
 * **Proof-of-Concept**: A functional inference application was built using Streamlit and deployed on **Hugging Face Spaces**.
