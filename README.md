@@ -80,3 +80,4 @@ You can find my research work on:
 * **Scopus Author ID**: 57189063339
 
 ---
+Let’s connect—I'm always open to learning, collaborating, and growing in the data field.
